@@ -3,30 +3,30 @@
             "id": 1,
             "name": "Book",
             "price": 10.99,
-            "imageUrl": "https://github.com/WebDevSimplified/react-ts-shopping-cart/blob/main/public/imgs/book.jpg?raw=true"
+            "imageUrl": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8OXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
       },
       {
             "id": 2,
             "name": "Computer",
             "price": 1199,
-            "imageUrl": "https://github.com/WebDevSimplified/react-ts-shopping-cart/blob/main/public/imgs/computer.jpg?raw=true"
+            "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
       },
       {
             "id": 3,
             "name": "Banana",
             "price": 1.05,
-            "imageUrl": "https://github.com/WebDevSimplified/react-ts-shopping-cart/blob/main/public/imgs/banana.jpg?raw=true"
+            "imageUrl": "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmFuYW5hfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
       },
       {
             "id": 4,
             "name": "Car",
             "price": 33300,
-            "imageUrl": "https://github.com/WebDevSimplified/react-ts-shopping-cart/blob/main/public/imgs/car.jpg?raw=true"
+            "imageUrl": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2FyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
       },
       {
             "id": 5,
-            "name": "Caar",
+            "name": "Girl",
             "price": 33300,
-            "imageUrl": "https://github.com/WebDevSimplified/react-ts-shopping-cart/blob/main/public/imgs/car.jpg?raw=true"
+            "imageUrl": "https://images.unsplash.com/photo-1582944682271-172a57ce4b52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHNleHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
       }
 ]
