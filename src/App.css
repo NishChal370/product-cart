@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@360&display=swap');
+
+*{
+      font-size: 1.1rem;
+      font-family: 'Poppins', sans-serif;
+}
+
+.turn--white{
+      filter: invert(10%) sepia(90%) saturate(5268%) hue-rotate(245deg) brightness(109%) contrast(155%);
+}
+
+.text--white{
+      color: white !important;
+}
